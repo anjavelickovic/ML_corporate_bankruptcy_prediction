@@ -13,7 +13,11 @@ The data contains 5910 instances (financial statements):
   
   (https://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data)
 
-
+## Literature
+  - https://cs229.stanford.edu/proj2019aut/data/assignment_308832_raw/26646282.pdf
+  - https://scikit-learn.org/stable/
+  - https://github.com/matf-ml/materijali-sa-vezbi-2022
+  
 ## Author
 * [Anja Veličković](https://github.com/anjavelickovic)
 
