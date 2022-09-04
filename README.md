@@ -16,6 +16,7 @@ The data contains 5910 instances (financial statements):
 ## Literature
   - https://cs229.stanford.edu/proj2019aut/data/assignment_308832_raw/26646282.pdf
   - https://scikit-learn.org/stable/
+  - https://pandas.pydata.org/
   - https://github.com/matf-ml/materijali-sa-vezbi-2022
   
 ## Author
